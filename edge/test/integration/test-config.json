@@ -1,0 +1,12 @@
+{
+	"domains": {
+		"dev": "https://${org}-${env}.apigee.net"
+	},
+	"${projectName}-${teamName}-test_onboard6": {
+		"basepath": "/v1/test_onboard6",
+		"product":"test_onboard6Product",
+		"app":"test_onboard6App",
+		"org":"${org}",
+		"env":"${env}"
+	}
+}

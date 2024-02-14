@@ -1,0 +1,29 @@
+[
+    {
+        "name": "test_onboard6Product",
+        "apiResources": [],
+        "approvalType": "auto",
+        "attributes": [
+            {
+                "name": "description",
+                "value": "test_onboard6Product"
+            },
+            {
+                "name": "access",
+                "value": "private"
+            }
+        ],
+        "description": "test_onboard6Product",
+        "displayName": "test_onboard6Product",
+        "environments": [
+            "${env}"
+        ],
+        "proxies": [
+            "${projectName}-${teamName}-test_onboard6"
+        ],
+        "quota": "10000",
+        "quotaInterval": "1",
+        "quotaTimeUnit": "month",
+        "scopes": []
+    } 
+]

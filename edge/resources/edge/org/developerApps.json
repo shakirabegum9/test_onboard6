@@ -1,0 +1,12 @@
+{
+    "integration-tester@sidgs.com": [
+        {
+            "apiProducts": [
+                "test_onboard6Product"
+            ],
+            "callbackUrl": "",
+            "name": "test_onboard6App",
+            "scopes": []
+        }
+    ]
+}
